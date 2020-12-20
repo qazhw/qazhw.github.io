@@ -3,11 +3,11 @@
   <title>颖火虫赵云</title>
   
   
-  <link href="https://qazhw.github.io/atom.xml" rel="self"/>
+  <link href="https://qazhw.github.io/hexo-theme-matery-master/atom.xml" rel="self"/>
   
-  <link href="https://qazhw.github.io/"/>
+  <link href="https://qazhw.github.io/hexo-theme-matery-master/"/>
   <updated>2020-12-20T08:45:24.520Z</updated>
-  <id>https://qazhw.github.io/</id>
+  <id>https://qazhw.github.io/hexo-theme-matery-master/</id>
   
   <author>
     <name>赵红炜</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://qazhw.github.io/2020/12/20/hello-world/"/>
-    <id>https://qazhw.github.io/2020/12/20/hello-world/</id>
+    <link href="https://qazhw.github.io/hexo-theme-matery-master/2020/12/20/hello-world/"/>
+    <id>https://qazhw.github.io/hexo-theme-matery-master/2020/12/20/hello-world/</id>
     <published>2020-12-20T08:45:24.520Z</published>
     <updated>2020-12-20T08:45:24.520Z</updated>
     
